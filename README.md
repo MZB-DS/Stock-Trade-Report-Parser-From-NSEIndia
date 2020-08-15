@@ -15,4 +15,5 @@ Adding feature to pull one week and 3 months historical data.
 - Python3 any version
 - Selenium webdriver for your preferred browser. Install from here: https://www.selenium.dev/downloads/
 - Python packages: selenium==3.141.0(For working with web browser), time, bs4(For html parsing), tqdm(For displaying progress bar), warnings
+
 ```pip3 install selenium==3.141.0 time bs4 tqdm warnings```
